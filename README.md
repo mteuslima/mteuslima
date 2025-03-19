@@ -1,7 +1,7 @@
 ## Sobre mim
 Me chamo Mateus e sou desenvolvedor front-end e designer UI-UX. Por aqui se encontram alguns de meus projetos.
 
-👾 Entusiasta do mundo da tecnologia e ciências   
+👾 Curioso pelo mundo da tecnologia e ciências   
 🎮 Apaixonado por inovação, design e soluções criativas  
 🌀 Explorando o desenvolvimento full stack e ciência de dados  
 
