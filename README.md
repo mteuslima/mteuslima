@@ -1,3 +1,5 @@
+![Boas-vindas](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+
 ## Sobre mim
 Me chamo Mateus e sou desenvolvedor front-end e designer UI-UX. Por aqui se encontram alguns de meus projetos.
 
