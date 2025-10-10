@@ -1,10 +1,16 @@
 # Olá! Eu sou o Mateus 👋
 
 Desenvolvedor Front-End e Designer UI/UX com paixão por tecnologia, inovação e design criativo.  
+Curioso pelo mundo da tecnologia e ciências, sempre buscando soluções criativas e experiências digitais impactantes.
 
-Curioso pelo mundo da tecnologia e ciências, sempre buscando soluções criativas e experiências digitais impactantes. Atualmente explorando Full Stack e Ciência de Dados.
+## 🎯 Atualmente
+- 🔭 Explorando desenvolvimento Full Stack e Ciência de Dados
+- 🌱 Aprendendo novas tecnologias e frameworks
+- 💡 Criando soluções inovadoras
 
----
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seu-portfolio.com)
 
 ## 💻 Tecnologias & Ferramentas
 <p align="left">
@@ -19,8 +25,6 @@ Curioso pelo mundo da tecnologia e ciências, sempre buscando soluções criativ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="n8n" width="50"/>
 </p>
-
----
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
