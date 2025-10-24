@@ -1,4 +1,4 @@
-# Olá! Eu sou o Mateus 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=green&width=435&lines=Olá,+meu+nome+é+Mateus!" alt="Typing SVG" />
 
 Desenvolvedor Front-End e Designer UI/UX com paixão por tecnologia, inovação e design criativo.  
 Curioso pelo mundo da tecnologia e ciências, sempre buscando soluções criativas e experiências digitais impactantes.
