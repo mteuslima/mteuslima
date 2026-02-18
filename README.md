@@ -12,9 +12,9 @@ Desenvolvedor **Front-End** e **Designer UI/UX** com paixão por transformar ide
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mteuslima)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/antoniomlimas/))
+[![Portfólio]([https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com](https://obscure-space-guide-g4x5gjxjv7rx2vjqx-5500.app.github.dev/Portif%C3%B3lio%20-%20Mateus/portifolio.html))
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mteuslima](https://github.com/mteuslima/mteuslima))
 
 ## 💻 Stack Tecnológica
 
