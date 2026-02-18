@@ -1,37 +1,38 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=green&width=435&lines=Olá,+meu+nome+é+Mateus!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A9CFF&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Mateus+👋;Desenvolvedor+Front-End;UI/UX+Designer;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 
-Desenvolvedor Front-End e Designer UI/UX com paixão por tecnologia, inovação e design criativo.  
-Curioso pelo mundo da tecnologia e ciências, sempre buscando soluções criativas e experiências digitais impactantes.
+## 👨‍💻 Sobre mim
 
-## 🎯 Atualmente
-- 🔭 Explorando desenvolvimento Full Stack e Ciência de Dados
-- 🌱 Aprendendo novas tecnologias e frameworks
-- 💡 Criando soluções inovadoras
+Desenvolvedor **Front-End** e **Designer UI/UX** com paixão por transformar ideias em experiências digitais criativas e funcionais. Curioso por natureza, estou sempre explorando as interseções entre tecnologia, design e ciência para criar soluções inovadoras.
+
+## 🚀 Atualmente
+
+- 🔭 Explorando **Desenvolvimento Full Stack** e **Ciência de Dados**
+- 🌱 Aprofundando conhecimentos em novos frameworks e tecnologias
+- 💡 Desenvolvendo projetos que unem **design** e **código**
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seu-portfolio.com)
 
-## 💻 Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="n8n" width="50"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mteuslima)
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mteuslima&show_icons=true&theme=tokyonight&count_private=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mteuslima&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+## 💻 Stack Tecnológica
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mteuslima&theme=tokyonight" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,python,mysql,cpp,dart,n8n" alt="Tech Stack" />
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mteuslima&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mteuslima&layout=compact&langs_count=7&theme=radical" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mteuslima&theme=radical" />
+</div>
+
+---
+
+### 🎯 "Transformando ideias em código e design em experiências memoráveis."
